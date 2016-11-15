@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/template/account.ftl=UTF-8
+encoding//src/main/webapp/template/edit.ftl=UTF-8
+encoding//src/main/webapp/template/editSubmit.ftl=UTF-8
+encoding//src/main/webapp/template/include/footer.ftl=UTF-8
+encoding//src/main/webapp/template/include/head.ftl=UTF-8
+encoding//src/main/webapp/template/include/header.ftl=UTF-8
+encoding//src/main/webapp/template/include/support.ftl=UTF-8
+encoding//src/main/webapp/template/index.ftl=UTF-8
+encoding//src/main/webapp/template/login.ftl=UTF-8
+encoding//src/main/webapp/template/public.ftl=UTF-8
+encoding//src/main/webapp/template/publicSubmit.ftl=UTF-8
+encoding//src/main/webapp/template/show.ftl=UTF-8
+encoding/<project>=UTF-8
